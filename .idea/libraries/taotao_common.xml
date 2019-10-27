@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="taotao-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/taotao-common/target/taotao-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

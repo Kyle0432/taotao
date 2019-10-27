@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b213114-6ec9-4508-b6a5-170f883c5471" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kyle0432_git/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kyle0432_git/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taotao-parent/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taotao-parent/.idea/libraries/Maven__redis_clients_jedis_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taotao-parent/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN" beforeDir="false" afterPath="$PROJECT_DIR$/CSDN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/artifacts/CSDN_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSDN/.idea/artifacts/CSDN_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_test_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSDN/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSDN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/CSDN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSDN/CSDN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/CardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/FatherReplyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/NewsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/SonReplyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/UserDataController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/pageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/controller/uploadController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/mapper/CardMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/mapper/FatherReplyMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/mapper/FatherSonMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/mapper/NewsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/mapper/SonReplyMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/mapper/UserDataMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/CardExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/CardExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/CardExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/CardExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherReply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherReplyExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherReplyExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherReplyExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherReplyExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherSon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherSonExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherSonExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherSonExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/FatherSonExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/Msg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/NewsExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/NewsExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/NewsExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/NewsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/SonReply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/SonReplyExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/SonReplyExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/SonReplyExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/SonReplyExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserDataExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserDataExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserDataExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserDataExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/pojo/UserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/CardService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/NewsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/UserDataService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/impl/CardServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/impl/NewsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/impl/UserDataServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/utils/CommToDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/utils/FtpUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/utils/IDUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSDN/target/classes/com/kyle/csdn/utils/MBGTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyle0432_git" beforeDir="false" afterPath="$PROJECT_DIR$/kyle0432_git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/artifacts/taotao_manager_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/artifacts/taotao_manager_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/artifacts/taotao_portal_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/artifacts/taotao_portal_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/artifacts/taotao_rest_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/artifacts/taotao_rest_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taotao-sso/src/main/java/com/taotao/sso/controller/PageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-sso/src/main/java/com/taotao/sso/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-sso/src/main/java/com/taotao/sso/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectId" id="1PEDKD41ZsA7goqkL44Bon3nK0q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showModules PackagesPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorkSpace_IDEA1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2745626" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b213114-6ec9-4508-b6a5-170f883c5471" name="Default Changelist" comment="" />
+      <created>1565430296124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565430296124</updated>
+      <workItem from="1565430301358" duration="488000" />
+      <workItem from="1565438536306" duration="34000" />
+      <workItem from="1566206403743" duration="206000" />
+      <workItem from="1567787159026" duration="43000" />
+      <workItem from="1568454281200" duration="625000" />
+      <workItem from="1568603900292" duration="31000" />
+      <workItem from="1568707987009" duration="478000" />
+      <workItem from="1569770002930" duration="507000" />
+      <workItem from="1569770610239" duration="1441000" />
+      <workItem from="1569832470216" duration="2503000" />
+      <workItem from="1570350645153" duration="1507000" />
+      <workItem from="1571489559741" duration="2238000" />
+      <workItem from="1571730422422" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9686000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2912254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3290735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/taotao-order/src/main/java/com/taotao/order/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1339">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/java/com/taotao/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/webapp/WEB-INF/jsp/content.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kyle0432_git/src/main/java/com/kyle/git/TestGit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-order/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-788" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSDN/src/main/java/com/kyle/csdn/controller/CardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1701" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-sso/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2624" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-rest/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-rest/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-sso/src/main/java/com/taotao/sso/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-sso/src/main/java/com/taotao/sso/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-sso/src/main/java/com/taotao/sso/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2745626" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2745626" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2745626" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>localhost</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2745626" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>taotao-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2745626" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

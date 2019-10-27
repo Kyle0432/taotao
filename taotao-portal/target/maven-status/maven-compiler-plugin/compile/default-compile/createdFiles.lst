@@ -1,0 +1,6 @@
+com\taotao\portal\service\ContentService.class
+com\taotao\portal\interceptor\LoginInterceptor.class
+com\taotao\portal\service\UserService.class
+com\taotao\portal\controller\IndexController.class
+com\taotao\portal\service\impl\ContentServiceImpl.class
+com\taotao\portal\service\impl\UserServiceImpl.class

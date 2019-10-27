@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                http://www.springframework.org/schema/beans/spring-beans.xsd
+                http://www.springframework.org/schema/context
+                http://www.springframework.org/schema/context/spring-context.xsd
+">
+       <!-- jedis客户端单机版-->
+       <bean id="redisClient" class="redis.clients.jedis.JedisPool">
+             <!--表示设置参数用constructor-arg  -->
+             <constructor-arg name="host" value="192.168.110.130"></constructor-arg>
+             <constructor-arg name="port" value="6379"></constructor-arg>
+       </bean>
+
+       <!-- jedis集群版配置-->
+       <bean id="redisClientCluster" class="redis.clients.jedis.JedisCluster">
+             <constructor-arg name="nodes">
+                 <set>
+                       <bean class="redis.clients.jedis.HostAndPort">
+                                <constructor-arg name="host" value="192.168.110.130"></constructor-arg>
+                                <constructor-arg name="port" value="6379"></constructor-arg>
+                       </bean>
+                       <bean class="redis.clients.jedis.HostAndPort">
+                                <constructor-arg name="host" value="192.168.110.130"></constructor-arg>
+                                <constructor-arg name="port" value="6380"></constructor-arg>
+                       </bean>
+                       <bean class="redis.clients.jedis.HostAndPort">
+                                <constructor-arg name="host" value="192.168.110.130"></constructor-arg>
+                                <constructor-arg name="port" value="6381"></constructor-arg>
+                       </bean>
+                       <bean class="redis.clients.jedis.HostAndPort">
+                                <constructor-arg name="host" value="192.168.110.130"></constructor-arg>
+                                <constructor-arg name="port" value="6382"></constructor-arg>
+                       </bean>
+                 </set>
+             </constructor-arg>
+       </bean>
+</beans>

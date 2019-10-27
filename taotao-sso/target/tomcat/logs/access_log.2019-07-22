@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:02:53 +0800] "GET /page/register HTTP/1.1" 200 7683 http-bio-8084-exec-2 1301
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:02:58 +0800] "GET /user/check/1/1?r=0.9109053860084484 HTTP/1.1" 200 48 http-bio-8084-exec-3 679
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:02:58 +0800] "GET /user/check/1/2?r=0.9575232353609251 HTTP/1.1" 200 48 http-bio-8084-exec-4 9
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:02:58 +0800] "POST /user/register HTTP/1.1" 200 48 http-bio-8084-exec-5 57
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:03:01 +0800] "GET /page/login HTTP/1.1" 200 4011 http-bio-8084-exec-6 137
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:03:02 +0800] "GET /css/login.css HTTP/1.1" 200 28031 http-bio-8084-exec-8 15
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:03:02 +0800] "GET /images/login-all-bg.png HTTP/1.1" 200 12219 http-bio-8084-exec-9 8
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:03:02 +0800] "GET /WEB-INF/images/544a11d3Na5a3d566.png HTTP/1.1" 404 949 http-bio-8084-exec-7 6
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:04:20 +0800] "GET /page/login HTTP/1.1" 200 4003 http-bio-8084-exec-3 164
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:04:20 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 200 195803 http-bio-8084-exec-3 5
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:04:30 +0800] "POST /user/login HTTP/1.1" 200 7410 http-bio-8084-exec-3 2347
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:04:41 +0800] "GET /page/login HTTP/1.1" 200 4011 http-bio-8084-exec-3 164
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:04:41 +0800] "GET /WEB-INF/images/544a11d3Na5a3d566.png HTTP/1.1" 404 949 http-bio-8084-exec-9 2
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:04:45 +0800] "POST /user/login HTTP/1.1" 200 7410 http-bio-8084-exec-9 2015
+0:0:0:0:0:0:0:1 - - [22/Jul/2019:10:12:16 +0800] "POST /user/login HTTP/1.1" 200 7410 http-bio-8084-exec-5 2018
