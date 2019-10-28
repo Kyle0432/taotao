@@ -1,5 +1,4 @@
-2019.02 - 2019.07   淘淘商城    
-Github仓库地址:https://github.com/Kyle0432/taotao.git  
+2019.02 - 2019.07   淘淘商城     
 开发环境： IDEA+Maven+Git+Jdk1.8+Tomcat8.0  
 软件架构： Mysql+Mybatis+Spring+Springmvc+Redis+Solr+Httpclient  
 项目描述：淘淘网上商城是一个综合性的B2C平台，类似京东商城、天猫商城。会员可以在商城浏览商品、下订单，  
